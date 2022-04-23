@@ -43,7 +43,8 @@ Open data resources for Capstone Projects and your Data Science Journey.
 37. [CERN Open Data Portal](http://opendata.cern.ch/)
 38. [Mexico Open Government Data](https://datos.gob.mx/)
 39. [NLP Datasets](https://datasets.quantumstat.com)
-  
+40. [Peace Research Institute Data] (https://www.prio.org/data)
+
 <strong>APIs</strong>:
 <ol>
 <li><a href="https://github.com/toddmotto/public-apis">Public APIs</a></li>
